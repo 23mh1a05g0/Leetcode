@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/23mh1a05g0/Leetcode/tree/master/0283-move-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -34,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
