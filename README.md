@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/23mh1a05g0/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/23mh1a05g0/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/23mh1a05g0/Leetcode/tree/master/0290-word-pattern) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/23mh1a05g0/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-most-frequent-even-element](https://github.com/23mh1a05g0/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/23mh1a05g0/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/23mh1a05g0/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/23mh1a05g0/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/23mh1a05g0/Leetcode/tree/master/0290-word-pattern) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/23mh1a05g0/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
