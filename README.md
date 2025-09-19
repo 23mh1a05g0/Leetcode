@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/23mh1a05g0/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/23mh1a05g0/Leetcode/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/23mh1a05g0/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
