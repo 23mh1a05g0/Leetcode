@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/23mh1a05g0/Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/23mh1a05g0/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/23mh1a05g0/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/23mh1a05g0/Leetcode/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/23mh1a05g0/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/23mh1a05g0/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/23mh1a05g0/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/23mh1a05g0/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/23mh1a05g0/Leetcode/tree/master/0290-word-pattern) |
