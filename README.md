@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23mh1a05g0/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/23mh1a05g0/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/23mh1a05g0/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0229-majority-element-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23mh1a05g0/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/23mh1a05g0/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/23mh1a05g0/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/23mh1a05g0/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/23mh1a05g0/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -151,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
