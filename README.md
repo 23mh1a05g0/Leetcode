@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/23mh1a05g0/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/23mh1a05g0/Leetcode/tree/master/0412-fizz-buzz) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/23mh1a05g0/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
