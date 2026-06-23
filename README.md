@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1306-minimum-absolute-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2486-most-frequent-even-element](https://github.com/23mh1a05g0/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/23mh1a05g0/Leetcode/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/23mh1a05g0/Leetcode/tree/master/0506-relative-ranks) |
 | [1306-minimum-absolute-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0605-can-place-flowers](https://github.com/23mh1a05g0/Leetcode/tree/master/0605-can-place-flowers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
