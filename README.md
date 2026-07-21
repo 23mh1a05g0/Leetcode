@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/23mh1a05g0/Leetcode/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23mh1a05g0/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/23mh1a05g0/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23mh1a05g0/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/23mh1a05g0/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Prefix Sum
@@ -218,7 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/23mh1a05g0/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/23mh1a05g0/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
