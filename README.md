@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/23mh1a05g0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/23mh1a05g0/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/23mh1a05g0/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/23mh1a05g0/Leetcode/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/23mh1a05g0/Leetcode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/23mh1a05g0/Leetcode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -232,4 +236,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
