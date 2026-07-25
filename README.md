@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/23mh1a05g0/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/23mh1a05g0/Leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/23mh1a05g0/Leetcode/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/23mh1a05g0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/23mh1a05g0/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
+| [0416-partition-equal-subset-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
