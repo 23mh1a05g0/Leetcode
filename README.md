@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/23mh1a05g0/Leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/23mh1a05g0/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/23mh1a05g0/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/23mh1a05g0/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23mh1a05g0/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/23mh1a05g0/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/23mh1a05g0/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
