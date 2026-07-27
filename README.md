@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1306-minimum-absolute-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/23mh1a05g0/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/23mh1a05g0/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/23mh1a05g0/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/23mh1a05g0/Leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
