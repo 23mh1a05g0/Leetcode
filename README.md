@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/23mh1a05g0/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/23mh1a05g0/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/23mh1a05g0/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/23mh1a05g0/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
+| [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Queue
 |  |
 | ------- |
