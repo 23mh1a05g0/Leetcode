@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23mh1a05g0/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1332-remove-palindromic-subsequences](https://github.com/23mh1a05g0/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/23mh1a05g0/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1332-remove-palindromic-subsequences](https://github.com/23mh1a05g0/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/23mh1a05g0/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/23mh1a05g0/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
