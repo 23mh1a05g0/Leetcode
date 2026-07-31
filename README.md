@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/23mh1a05g0/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/23mh1a05g0/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
 ## Greedy
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/23mh1a05g0/Leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23mh1a05g0/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
