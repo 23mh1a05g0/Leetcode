@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/23mh1a05g0/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/23mh1a05g0/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/23mh1a05g0/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/23mh1a05g0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/23mh1a05g0/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/23mh1a05g0/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/23mh1a05g0/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/23mh1a05g0/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/23mh1a05g0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/23mh1a05g0/Leetcode/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/23mh1a05g0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/23mh1a05g0/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/23mh1a05g0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/23mh1a05g0/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/23mh1a05g0/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/23mh1a05g0/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/23mh1a05g0/Leetcode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/23mh1a05g0/Leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23mh1a05g0/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/23mh1a05g0/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
