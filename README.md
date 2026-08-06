@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/23mh1a05g0/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/23mh1a05g0/Leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/23mh1a05g0/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/23mh1a05g0/Leetcode/tree/master/0056-merge-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/23mh1a05g0/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/23mh1a05g0/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
