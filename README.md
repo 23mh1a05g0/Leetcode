@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/23mh1a05g0/Leetcode/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/23mh1a05g0/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/23mh1a05g0/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
+| [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/23mh1a05g0/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/1572-matrix-diagonal-sum) |
