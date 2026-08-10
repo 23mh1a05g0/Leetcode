@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/23mh1a05g0/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/23mh1a05g0/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/23mh1a05g0/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/23mh1a05g0/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/23mh1a05g0/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/23mh1a05g0/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0191-number-of-1-bits) |
