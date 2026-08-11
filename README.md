@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/23mh1a05g0/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/23mh1a05g0/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/23mh1a05g0/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/23mh1a05g0/Leetcode/tree/master/0326-power-of-three) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/23mh1a05g0/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/23mh1a05g0/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/23mh1a05g0/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/23mh1a05g0/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/23mh1a05g0/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/23mh1a05g0/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/23mh1a05g0/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/23mh1a05g0/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/23mh1a05g0/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/23mh1a05g0/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/23mh1a05g0/Leetcode/tree/master/0231-power-of-two) |
