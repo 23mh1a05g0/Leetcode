@@ -1,6 +1,6 @@
 class Solution {
     public int missingInteger(int[] nums) {
-        //if(nums.length == 1) return nums[0] + 1;
+        if(nums.length == 1) return nums[0] + 1;
         int currsum = nums[0];
         int i = 1;
         while(i < nums.length){
