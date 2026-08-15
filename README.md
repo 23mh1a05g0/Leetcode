@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23mh1a05g0/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/23mh1a05g0/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/23mh1a05g0/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/23mh1a05g0/Leetcode/tree/master/0461-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23mh1a05g0/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23mh1a05g0/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/23mh1a05g0/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Game Theory
 |  |
