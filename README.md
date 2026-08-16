@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/23mh1a05g0/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/23mh1a05g0/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/23mh1a05g0/Leetcode/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/23mh1a05g0/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/23mh1a05g0/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/23mh1a05g0/Leetcode/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0877-stone-game) |
