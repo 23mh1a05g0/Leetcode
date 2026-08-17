@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/23mh1a05g0/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/23mh1a05g0/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/23mh1a05g0/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/23mh1a05g0/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/23mh1a05g0/Leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/23mh1a05g0/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/23mh1a05g0/Leetcode/tree/master/0118-pascals-triangle) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/23mh1a05g0/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/23mh1a05g0/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/23mh1a05g0/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
