@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/23mh1a05g0/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/23mh1a05g0/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/23mh1a05g0/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/23mh1a05g0/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/23mh1a05g0/Leetcode/tree/master/0326-power-of-three) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/23mh1a05g0/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/23mh1a05g0/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23mh1a05g0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/23mh1a05g0/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/23mh1a05g0/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/23mh1a05g0/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
