@@ -2,6 +2,15 @@ class Solution {
     public int mySqrt(int x) {
         //return (int) Math.sqrt(x);
 
+        // int res = 1;
+        // for(int i=1;i<=x;i++){
+        //     if((long) i * i > x){
+        //         return res;
+        //     }
+        //     res = i;
+        // }
+        // return res;
+
         int left = 0;
         int right = x;
         int res = 0;
