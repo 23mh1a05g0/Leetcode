@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/23mh1a05g0/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/23mh1a05g0/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/23mh1a05g0/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/23mh1a05g0/Leetcode/tree/master/0118-pascals-triangle) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/23mh1a05g0/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/23mh1a05g0/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/23mh1a05g0/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/23mh1a05g0/Leetcode/tree/master/0231-power-of-two) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/23mh1a05g0/Leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23mh1a05g0/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
