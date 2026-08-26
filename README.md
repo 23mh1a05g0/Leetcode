@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/23mh1a05g0/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0877-stone-game) |
+| [1362-closest-divisors](https://github.com/23mh1a05g0/Leetcode/tree/master/1362-closest-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/23mh1a05g0/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23mh1a05g0/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -547,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23mh1a05g0/Leetcode/tree/master/0020-valid-parentheses) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/23mh1a05g0/Leetcode/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
