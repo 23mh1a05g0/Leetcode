@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/23mh1a05g0/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23mh1a05g0/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/23mh1a05g0/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23mh1a05g0/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/23mh1a05g0/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23mh1a05g0/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/23mh1a05g0/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -572,4 +574,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/23mh1a05g0/Leetcode/tree/master/0141-linked-list-cycle) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
