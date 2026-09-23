@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/23mh1a05g0/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1362-closest-divisors](https://github.com/23mh1a05g0/Leetcode/tree/master/1362-closest-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/23mh1a05g0/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/23mh1a05g0/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1266-minimum-time-visiting-all-points](https://github.com/23mh1a05g0/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-minimum-absolute-difference](https://github.com/23mh1a05g0/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -610,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/23mh1a05g0/Leetcode/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/23mh1a05g0/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
