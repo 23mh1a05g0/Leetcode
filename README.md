@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/23mh1a05g0/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2486-most-frequent-even-element](https://github.com/23mh1a05g0/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/23mh1a05g0/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/23mh1a05g0/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/23mh1a05g0/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
