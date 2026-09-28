@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1002-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/23mh1a05g0/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/23mh1a05g0/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23mh1a05g0/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/23mh1a05g0/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/23mh1a05g0/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/23mh1a05g0/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/23mh1a05g0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23mh1a05g0/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/23mh1a05g0/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Queue
 |  |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23mh1a05g0/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23mh1a05g0/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prime Factorization
 |  |
 | ------- |
