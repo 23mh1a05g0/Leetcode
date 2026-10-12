@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/23mh1a05g0/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23mh1a05g0/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/23mh1a05g0/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1929-concatenation-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/23mh1a05g0/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23mh1a05g0/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/23mh1a05g0/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/23mh1a05g0/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23mh1a05g0/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
