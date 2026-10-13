@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2486-most-frequent-even-element](https://github.com/23mh1a05g0/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/23mh1a05g0/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2923-find-champion-i](https://github.com/23mh1a05g0/Leetcode/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23mh1a05g0/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23mh1a05g0/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/23mh1a05g0/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23mh1a05g0/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/23mh1a05g0/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23mh1a05g0/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/23mh1a05g0/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/23mh1a05g0/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23mh1a05g0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/23mh1a05g0/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
